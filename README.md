@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Retail Jobs](https://img.shields.io/badge/Retail_Jobs-37323-brightgreen?style=flat&logo=briefcase)
-![Top: Other Retail & Hospitality](https://img.shields.io/badge/Other_Retail_&_Hospitality-21211-informational?style=flat&logo=briefcase)
+![Retail Jobs](https://img.shields.io/badge/Retail_Jobs-37320-brightgreen?style=flat&logo=briefcase)
+![Top: Other Retail & Hospitality](https://img.shields.io/badge/Other_Retail_&_Hospitality-21209-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-31-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Retail-Jobs?style=flat&logo=calendar)
 
@@ -98,7 +98,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Customer Service Rep I | Austin, TX | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014522206) |
 | **AbbVie** | Customer Service Representative | Austin, TX | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014631866) |
 | **AbbVie** | Customer Service Rep II | Austin, TX | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014689926) |
-| **Lowe's** | Full Time - Sales Associate - Hardware - Closing | Goose Creek, SC 2464 | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Goose-Creek-SC-2464/Full-Time---Sales-Associate---Hardware---Closing_JR-02644595) |
+| **Lowe's** | Full Time - Sales Associate - Hardware - Closing | Goose Creek, SC 2464 | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Goose-Creek-SC-2464/Full-Time---Sales-Associate---Hardware---Closing_JR-02644595) |
 | **Lowe's** | Full Time - Cashier - Opening | Sioux Falls, SD 2466 | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Sioux-Falls-SD-2466/Full-Time---Cashier---Opening_JR-02644466) |
 | **Lowe's** | Full Time - Cashier - Day | Roeland Park, KS 2588 | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Roeland-Park-KS-2588/Full-Time---Cashier---Day_JR-02644459) |
 | **Kroger** | FRONT END/CASHIER | Pinckney, MI, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/226053) |
@@ -163,14 +163,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Warehouse Administration Specialist | Woodridge, IL | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000145302189) |
-| **Red Bull** | US_EN_Operations_Warehouse Loader (Full Time) | Irwindale, CA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000143341629) |
-| **Red Bull** | Warehouse Loader (Part Time) | Killington, VT | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000142877715) |
-| **Red Bull** | Warehouse Loader (Part Time) | Evansville, IN | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000144619384) |
+| **Veolia Environnement SA** | Warehouse Administration Specialist | Woodridge, IL | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000145302189) |
+| **Red Bull** | US_EN_Operations_Warehouse Loader (Full Time) | Irwindale, CA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000143341629) |
+| **Red Bull** | Warehouse Loader (Part Time) | Killington, VT | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000142877715) |
+| **Red Bull** | Warehouse Loader (Part Time) | Evansville, IN | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000144619384) |
 | **Eurofins** | Pharmaceutical Warehouse Distribution Associate - 2nd Shift | West Point, PA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000122521260) |
-| **Cardinal Health** | Warehouse Associate, 2nd Shift | Waukegan, IL | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IL-Waukegan-MWDC/Warehouse-Associate--2nd-Shift_20186904) |
 | **Eurofins** | Warehouse Support | Kansas City, MO | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139329380) |
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Hillsboro, OR 1558 | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Hillsboro-OR-1558/Part-Time---Fulfillment-Associate---Flexible_JR-02644538-1) |
+| **Cardinal Health** | Warehouse Associate, 2nd Shift | Waukegan, IL | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IL-Waukegan-MWDC/Warehouse-Associate--2nd-Shift_20186904) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Hillsboro, OR 1558 | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Hillsboro-OR-1558/Part-Time---Fulfillment-Associate---Flexible_JR-02644538-1) |
 | **Target** | Seasonal: 4am Inbound (Stocking) (T0086) | Dubuque, IA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://target.wd5.myworkdayjobs.com/targetcareers/job/3500-Dodge-St-DubuqueIA-52003-5261/Seasonal--4am-Inbound--Stocking---T0086-_R0000452677-1) |
 | **Lowe's** | Full Time - Receiver/Stocker - Overnight | Goldsboro, NC 0557 | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Goldsboro-NC-0557/Full-Time---Receiver-Stocker---Overnight_JR-02644457) |
 | **Lowe's** | Full Time - Fulfillment Associate - Day | Schenectady, NY (Niskayuna) 1612 | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Schenectady-NY-Niskayuna-1612/Full-Time---Fulfillment-Associate---Day_JR-02643505) |
@@ -227,9 +227,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Red Bull** | Student Marketeer Team Lead - Los Angeles, CA | Los Angeles, CA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000141331797) |
-| **Red Bull** | Student Marketeer Team Lead - Fresno, CA | Fresno, CA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000143141404) |
-| **Red Bull** | Student Marketeer Team Lead - New Orleans, LA | New Orleans, LA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000143135119) |
+| **Red Bull** | Student Marketeer Team Lead - Los Angeles, CA | Los Angeles, CA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000141331797) |
+| **Red Bull** | Student Marketeer Team Lead - Fresno, CA | Fresno, CA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000143141404) |
+| **Red Bull** | Student Marketeer Team Lead - New Orleans, LA | New Orleans, LA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000143135119) |
 | **Hilton** | Assistant Manager - State & Lake Chicago Tavern - theWit Chicago | United States | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/222289) |
 | **ASM Global** | Tech Services Assistant Manager | Lincoln, NE | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Lincoln-NE/Tech-Services-Assistant-Manager_R100125268) |
 | **Sysco** | Outbound Team Lead | FreshPoint Kona | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://wd5.myworkdaysite.com/syscocareers/job/FreshPoint-Kona/Outbound-Team-Lead_R266136) |
@@ -253,31 +253,31 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | OTR Driver- CDL A | St. Peters, MO | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000091620325) |
-| **Veolia Environnement SA** | Wastewater Operator III | Palm Springs, CA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000105905517) |
-| **Veolia Environnement SA** | Licensed Water Treatment Plant Operator II | Palmetto, FL | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000114038142) |
-| **Red Bull** | Student Marketeer - Carnegie Mellon University | Pittsburgh, PA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000101666745) |
-| **Red Bull** | 2026 Part-Time Match Day - Fan Activation Event Production | Harrison, NJ | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000099644846) |
-| **Red Bull** | Student Marketeer - California State University, Dominguez Hills | Carson, CA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000082548735) |
+| **Veolia Environnement SA** | OTR Driver- CDL A | St. Peters, MO | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000091620325) |
+| **Veolia Environnement SA** | Wastewater Operator III | Palm Springs, CA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000105905517) |
+| **Veolia Environnement SA** | Licensed Water Treatment Plant Operator II | Palmetto, FL | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000114038142) |
+| **Amgen** | Undergrad Intern - Business Development – Thousand Oaks, CA (Summer 2027) | California - Thousand Oaks | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Business-Development---Thousand-Oaks--CA--Summer-2027-_R-254845) |
+| **Red Bull** | Student Marketeer - Carnegie Mellon University | Pittsburgh, PA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000101666745) |
+| **Red Bull** | 2026 Part-Time Match Day - Fan Activation Event Production | Harrison, NJ | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000099644846) |
+| **Red Bull** | Student Marketeer - California State University, Dominguez Hills | Carson, CA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000082548735) |
 | **Eurofins** | Laboratory Technician | Minneapolis, MN | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999855576701) |
 | **Eurofins** | Laboratory Technician | Houston, TX | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999820452247) |
 | **Eurofins** | IT Operations and Infrastructure | Lancaster, PA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715306274) |
-| **Cardinal Health** | Delivery Driver - Pharmacy Services | Placentia, CA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/CA-Placentia-Nucl-Pharm-87/Delivery-Driver---Pharmacy-Services_20186765) |
-| **Veeva Systems** | Technical Consultant - Front-end Development | New Jersey - Princeton | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/5efc2ced-5646-4d83-aa9b-310b5a9f30b7) |
-| **Veeva Systems** | Technical Consultant - RTSM (Remote) | North Carolina - Raleigh | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/13f75090-f290-4654-bc71-237b99d310ae) |
-| **Veeva Systems** | Technical Consultant - RTSM (Remote) | Wisconsin - Madison | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/7cb47452-8298-4523-81cf-40906f45ebad) |
-| **AbbVie** | Production Technician l (Sunday - Thursday) 10:30pm to 7:00am. | North Chicago, IL | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013532876) |
-| **AbbVie** | Specialty Representative, Psychiatry - Norwich, CT | Norwich, CT | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013423636) |
-| **AbbVie** | Specialty Representative, Psychiatry - Fall River, MA | Fall River, MA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013423416) |
-| **Highmark Health** | Medical Assistant - AHN Cancer Institute - Wexford - Full Time | Wexford PA, 15090, 12311 Perry H... | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Wexford-PA-15090-12311-Perry-Highway/Medical-Assistant---AHN-Cancer-Institute---Wexford---Full-Time_J286910-1) |
-| **Highmark Health** | Patient Access Coordinator II / Registration - AHN Cancer Institute - Allegheny General Hospital ... | Pittsburgh PA, 15212, 314 E Nort... | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-314-E-North-Avenue/Patient-Access-Coordinator-II---Registration---AHN-Cancer-Institute---Allegheny-General-Hospital---Full-Time_J286641) |
-| **Highmark Health** | Patient Access Coordinator II / Registration - AHN Cancer Institute / Radiation Oncology - Wexfor... | Wexford PA, 15090, 12311 Perry H... | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Wexford-PA-15090-12311-Perry-Highway/Patient-Access-Coordinator-II---Registration---AHN-Cancer-Institute---Wexford---Full-Time_J286634) |
-| **LabCorp** | Service Representative | Lakewood CO | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Lakewood-CO/Service-Representative_2629143) |
-| **LabCorp** | Phlebotomist | Waterbury CT | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Waterbury-CT/Phlebotomist_2627953) |
-| **LabCorp** | Phlebotomist - Rover | Georgetown DE | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Georgetown-DE/Phlebotomist---Rover_2540354) |
-| **Lowe's** | Part Time - Loader/Cart Associate - Flexible | Summerville, SC 0358 | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Summerville-SC-0358/Part-Time---Loader-Cart-Associate---Flexible_JR-02644554) |
-| **Amgen** | Undergrad Intern - Business Development – Thousand Oaks, CA (Summer 2027) | California - Thousand Oaks | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Business-Development---Thousand-Oaks--CA--Summer-2027-_R-254845) |
-| **Trane Technologies** | HVAC Controls Project Engineer | Charlotte North Carolina | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Charlotte-North-Carolina/HVAC-Controls-Project-Engineer_JR-8923-1) |
+| **Veeva Systems** | Technical Product Manager | Massachusetts - Boston | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/d403972d-cec8-4772-9197-c44024bc5cc3) |
+| **Veeva Systems** | Technical Product Manager | Massachusetts - Boston | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/d7001e2a-50f3-436c-8d81-908fdd172461) |
+| **Veeva Systems** | Technical Product Manager (AI) - Veeva Quality Cloud | Missouri - Kansas City | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/0a6817fd-bc3a-4f25-aea6-777ce9f3093f) |
+| **AbbVie** | Production Technician l (Sunday - Thursday) 10:30pm to 7:00am. | North Chicago, IL | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013532876) |
+| **AbbVie** | Specialty Representative, Psychiatry - Norwich, CT | Norwich, CT | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013423636) |
+| **AbbVie** | Specialty Representative, Psychiatry - Fall River, MA | Fall River, MA | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013423416) |
+| **Cardinal Health** | Delivery Driver - Pharmacy Services | Placentia, CA | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/CA-Placentia-Nucl-Pharm-87/Delivery-Driver---Pharmacy-Services_20186765) |
+| **Highmark Health** | Medical Assistant - AHN Cancer Institute - Wexford - Full Time | Wexford PA, 15090, 12311 Perry H... | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Wexford-PA-15090-12311-Perry-Highway/Medical-Assistant---AHN-Cancer-Institute---Wexford---Full-Time_J286910-1) |
+| **Highmark Health** | Patient Access Coordinator II / Registration - AHN Cancer Institute - Allegheny General Hospital ... | Pittsburgh PA, 15212, 314 E Nort... | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-314-E-North-Avenue/Patient-Access-Coordinator-II---Registration---AHN-Cancer-Institute---Allegheny-General-Hospital---Full-Time_J286641) |
+| **Highmark Health** | Patient Access Coordinator II / Registration - AHN Cancer Institute / Radiation Oncology - Wexfor... | Wexford PA, 15090, 12311 Perry H... | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Wexford-PA-15090-12311-Perry-Highway/Patient-Access-Coordinator-II---Registration---AHN-Cancer-Institute---Wexford---Full-Time_J286634) |
+| **LabCorp** | Service Representative | Lakewood CO | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Lakewood-CO/Service-Representative_2629143) |
+| **LabCorp** | Phlebotomist | Waterbury CT | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Waterbury-CT/Phlebotomist_2627953) |
+| **LabCorp** | Phlebotomist - Rover | Georgetown DE | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Georgetown-DE/Phlebotomist---Rover_2540354) |
+| **Lowe's** | Part Time - Loader/Cart Associate - Flexible | Summerville, SC 0358 | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Summerville-SC-0358/Part-Time---Loader-Cart-Associate---Flexible_JR-02644554) |
+| **Trane Technologies** | HVAC Controls Project Engineer | Charlotte North Carolina | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Charlotte-North-Carolina/HVAC-Controls-Project-Engineer_JR-8923-1) |
 | **Target** | Target Security Specialist | Atlanta, GA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://target.wd5.myworkdayjobs.com/targetcareers/job/2400-N-Druid-Hills-Rd-NE-AtlantaGA-30329-3211/Target-Security-Specialist_R0000451989) |
 | **Target** | Target Security Specialist | 40 W 225th St,#50 Bronx,NY 10463 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://target.wd5.myworkdayjobs.com/targetcareers/job/40-W-225th-St50-BronxNY-10463-7016/Target-Security-Specialist_R0000452609) |
 | **Target** | Target Security Specialist | Houston, TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://target.wd5.myworkdayjobs.com/targetcareers/job/2700-Eldridge-Pkwy-HoustonTX-77082-6870/Target-Security-Specialist_R0000452619) |
@@ -303,8 +303,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **EXP** | Beauty Advisor - MAC, Arden Fair - Part Time | Sacramento, CA, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_805378) |
 | **EXP** | Beauty Advisor - Lancome, Pembroke Lakes - Part Time | Pembroke Pines, FL, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_805372) |
 | **Starbucks** | advisor, West region (Sacramento) government affairs and public policy | 2950 N. Hollywood Way #175, Suit... | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://starbucks.eightfold.ai/careers/job/481077482354) |
-| **Comcast** | Coordinator 3, Technical Product Sales, Comcast Business | CA - Stockton | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/CA---Stockton-6505-Tam-O-Shanter-Dr/Coordinator-3--Technical-Product-Sales--Comcast-Business_R443366) |
 | **Amgen** | Contract Development Manager, Provider Contracting | United States - Remote | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Contract-Development-Manager--Provider-Contracting_R-254824) |
+| **Comcast** | Coordinator 3, Technical Product Sales, Comcast Business | CA - Stockton | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/CA---Stockton-6505-Tam-O-Shanter-Dr/Coordinator-3--Technical-Product-Sales--Comcast-Business_R443366) |
 | **Trane Technologies** | Service Coordinator | Tijuana, Baja California | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Tijuana-Baja-California/Service-Coordinator_JR-14430) |
 | **Fresenius Medical Care** | Production Operator 1 | Baja California, Tijuana, MEX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Baja-California-Tijuana-MEX/Production-Operator-1_R0255814) |
 | **Fresenius Medical Care** | Ensamblador Entry Level | Baja California, Tijuana, MEX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Baja-California-Tijuana-MEX/Production-Ensamblador-Entry-Level_R0258782-1) |
@@ -425,7 +425,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 37323 current opportunities from 31 companies**
+**🎯 37320 current opportunities from 31 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
