@@ -16,7 +16,7 @@
 <p align="center">🛍️ Retail jobs across the US, from store and warehouse roles to delivery. Refreshed daily.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Retail_Jobs-39071-4CAF7D?style=flat&logo=briefcase" height="30" alt="Retail Jobs">
+  <img src="https://img.shields.io/badge/Retail_Jobs-39071-3FB950?style=flat&logo=briefcase" height="30" alt="Retail Jobs">
   <img src="https://img.shields.io/badge/Top_Other_Retail___Hospitality-21635-3B9EFF?style=flat&logo=briefcase" height="30" alt="Top category: Other Retail & Hospitality">
   <img src="https://img.shields.io/badge/Companies-31-F0C243?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updates-every_10_minutes-B388FF?style=flat&logo=clock" height="30" alt="Listings refresh every 10 minutes">
