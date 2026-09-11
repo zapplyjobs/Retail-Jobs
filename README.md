@@ -17,9 +17,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Retail_Jobs-39071-4CAF7D?style=flat&logo=briefcase" height="30" alt="Retail Jobs">
-  <img src="https://img.shields.io/badge/Top_Other_Retail___Hospitality-21635-5B9BD5?style=flat&logo=briefcase" height="30" alt="Top category: Other Retail & Hospitality">
-  <img src="https://img.shields.io/badge/Companies-31-C9B458?style=flat&logo=building" height="30" alt="Companies hiring">
-  <img src="https://img.shields.io/badge/Updates-every_10_minutes-9B7EDE?style=flat&logo=clock" height="30" alt="Listings refresh every 10 minutes">
+  <img src="https://img.shields.io/badge/Top_Other_Retail___Hospitality-21635-3B9EFF?style=flat&logo=briefcase" height="30" alt="Top category: Other Retail & Hospitality">
+  <img src="https://img.shields.io/badge/Companies-31-F0C243?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Updates-every_10_minutes-B388FF?style=flat&logo=clock" height="30" alt="Listings refresh every 10 minutes">
 </p>
 
 ---
